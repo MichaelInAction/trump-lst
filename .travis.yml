@@ -1,8 +1,8 @@
 language: python
 python:
-  - "2.7"
+- '2.7'
 script: pytest
 deploy:
   provider: heroku
   api_key:
-    secure: b861c77f-46a2-4eb4-9f01-d6b0ccfdae4d
+    secure: qgY9a0r+jtjhzeAeDi5eD1k57uHNXlYot5GIYgdigj4N6hwH0cPFndRx2nRCGMjBchr1++klqmbhIB+xgZXMnZR/H7IJbS4kc0mrOXMm50SMhmuR5uLyZlbl80d7TgeZdl4JSEYZ0lbsG5DwM1weOqY38T9qHyYBhWft1gJQ39wAILu0L5OTqR+wwCZSBgMft+umwBR5lSxcIYiUKT9Pj04fXNR5Dm2Lp9+WgHIrbdjUjYC5PawWGpjJ7HsH4eE/yl46w600aGaLh0RleO8Z/eXwMLRNV/dQEB+IG4KlEDkQgUt0cCQeekIjkmJc85665juhzX3ud9g+VbSxaexe03ItcZ7wXndu4k7jy3/QBJUz1atqVifcb2rkFNM5oMqYQGIsa7jmTePWPhDC6XOztfJ5jcA/cjmyDiGynPvC/tufSHKKLSpb4/rd5gUyQUTcZBEv3HObUJ8Npf2JrzGrK5WsIhpSTV53PxRZ1a7ig4SxILsBBfKV/Yb1iCJJX9tcB6BtwZyLhnBvEWl7NvySS/9yuYhIPbj0Vy6FAH0Ngmit94b1GF1R9MwoemGGCBkzZDdqAq/mIvPI3+41fpzI+gBwWO84myLQPBh+8zfJkPvOmuC5ZYAd+uFhvmOXLBGz1oZjECRlIdmRmuuF9ITWAXir7j9IqSqPWst3vv79e/0=
